@@ -32,3 +32,8 @@
    color: black !important;
    font-weight: lighter;
 }
+
+.box {
+    margin-left: 7em;
+    margin-right: -3em;
+}
