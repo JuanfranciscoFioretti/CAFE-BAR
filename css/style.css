@@ -1,0 +1,34 @@
+.navbar {
+    background-color: rgba(167, 130, 74, 0.554) !important;
+}
+.light {
+    background-color: rgba(184, 167, 110, 0.871);
+}
+
+#photo {
+    margin-top: -2em !important;
+    margin-bottom: 3em !important;
+    margin-left: -2em !important;
+}
+
+#box {
+    margin-right: -3em !important;
+    margin-left: 3em !important;
+}
+
+.aFoot {
+    text-decoration: none;
+}
+
+.separate {
+    height: 0.5em;
+    width: 100%;
+    margin-top: -2em !important;
+    margin-bottom: -2em !important;
+    background-color: rgba(128, 128, 128, 0.19);
+}
+
+.black {
+   color: black !important;
+   font-weight: lighter;
+}
